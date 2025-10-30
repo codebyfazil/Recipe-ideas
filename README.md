@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🍳 Recipe Ideas — React App
 
@@ -183,3 +184,6 @@ This  project  is  open  source  and  available  under  the  MIT  License.
 Would  you  like  me  to  include  a  **project  screenshot  preview  section** (auto-generates markdown  for  your  actual  app  screenshots  once  you  upload  them)?
 
 That’ll  make  your  GitHub  README  look  even  more  professional.
+=======
+# Recipe-ideas
+>>>>>>> 4cd60408fc350ad8827a186c1d0c286b66a0373a
