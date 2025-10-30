@@ -147,7 +147,8 @@ Device  Layout
 
 Home  Page  
 
-![App Preview](../Recipe-ideas/src/assets/home%20page.png)
+![App Preview]<img src="./assets/home-page.png" alt="Home Page" />
+
 
   
   
