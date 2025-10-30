@@ -101,7 +101,6 @@ https://www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 
 ### 1️⃣ Clone the Repository
 
-```bash
 
 git  clone  https://github.com/codebyfazil/recipe-ideas.git
 
