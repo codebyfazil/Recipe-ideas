@@ -147,7 +147,7 @@ Device  Layout
 
 Home  Page  
 
-![App Preview]<img src="./assets/home-page.png" alt="Home Page" />
+![App Preview]<img src="./src/assets/home-page.png" alt="Home Page" />
 
 
   

@@ -6,7 +6,7 @@ export default function Navbar({ onSelect }) {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
 
   const scrollToAbout = () => {
-    const aboutSection = document.getElementById("about-section");
+    const aboutSection = document.getElementById("recipes-section");
     if (aboutSection) {
       aboutSection.scrollIntoView({ behavior: "smooth" });
     }

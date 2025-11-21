@@ -46,7 +46,7 @@ export default function PopularFoodSection() {
   ];
 
   return (
-    <section className="bg-orange-50 py-16">
+    <section className=" py-16">
       <h2 className="text-center text-3xl font-bold mb-12 text-gray-800">
         Our <span className="text-orange-500">Popular Food</span>
       </h2>

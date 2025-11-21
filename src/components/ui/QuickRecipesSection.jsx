@@ -57,7 +57,7 @@ export default function QuickFoodSection({ onSelect, onRecipeSelect }) {
     );
 
   return (
-    <section className="bg-white py-12">
+    <section className="bg-orange-50 py-12">
       <h2 className="text-center text-3xl font-bold mb-10 text-gray-800">
          Quick Food Ideas
       </h2>
